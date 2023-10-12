@@ -53,10 +53,20 @@ To get started with DictBlend, follow these simple steps:
 
 ## Disclaimer
 
+
 This code is provided as-is, with no warranties of any kind. The author and the code provider assume 
 ZERO responsibility for any direct or indirect damages that may arise from the use of this program.
 
 By using this program, you acknowledge and accept this disclaimer of liability.
+
+This program is provided as-is, with no warranties of any kind. The author and the code provider assume 
+ZERO responsibility for any direct or indirect damages that may arise from the use of this program.
+
+By using this program, you acknowledge and accept this disclaimer of liability.
+
+Please ensure that you understand the code and its implications before using it. Always conduct 
+thorough testing in a safe environment before implementing this code in a production setting.
+
 
 **Please ensure that you understand the code and its implications before using it.**
 
@@ -66,3 +76,4 @@ By using this program, you acknowledge and accept this disclaimer of liability.
 
 
 *Visit our GitHub repository: [DictBlend](https://github.com/tomasilluminati/dictblend)*
+
