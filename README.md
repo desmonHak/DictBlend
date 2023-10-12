@@ -48,16 +48,18 @@ To get started with DictBlend, follow these simple steps:
 
 ## Disclaimer
 
-DictBlend is intended for educational and ethical use only. It provides functions for word permutation, data collection, and file export. Output files are created in the current working directory, and input options are validated to prevent errors and guide the user.
+This program is provided as-is, with no warranties of any kind. The author and the code provider assume 
+ZERO responsibility for any direct or indirect damages that may arise from the use of this program.
 
-Please use this toolkit responsibly and in compliance with all relevant laws and regulations. The authors and contributors are not responsible for any misuse or unlawful activities conducted using this script.
+By using this program, you acknowledge and accept this disclaimer of liability.
+
+Please ensure that you understand the code and its implications before using it. Always conduct 
+thorough testing in a safe environment before implementing this code in a production setting.
 
 ---
 
 **Copyright © 2023 Tomás Illuminati**
 
 *This project is licensed under the [MIT License](LICENSE).*
-
-*For any questions or inquiries, please contact [Your Email Address].*
 
 *Visit our GitHub repository: [DictBlend](https://github.com/yourusername/dictblend)*
